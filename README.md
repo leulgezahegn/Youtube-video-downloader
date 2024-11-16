@@ -1,4 +1,4 @@
-# Youtube vedio and suntitle (caption) downloader telegram bot
+# Youtube video and subtitle (caption) downloader telegram bot
 
 
 This telegram bot download subtitles and vedio from YouTube videos.
@@ -7,8 +7,8 @@ This telegram bot download subtitles and vedio from YouTube videos.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/qobulovasror/youtube-vedio-subtitle-downloder.git
-    cd youtube-vedio-subtitle-downloder
+    https://github.com/leulgezahegn/Youtube-video-downloader.git
+    cd 
     ```
 
 2. Create a virtual environment and activate it:
